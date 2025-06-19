@@ -1,0 +1,11 @@
+C:\Users\LAPTOP-PC\projects\VisCS\BaiThi\bin\Debug\BaiThi.exe.config
+C:\Users\LAPTOP-PC\projects\VisCS\BaiThi\bin\Debug\BaiThi.exe
+C:\Users\LAPTOP-PC\projects\VisCS\BaiThi\bin\Debug\BaiThi.pdb
+C:\Users\LAPTOP-PC\projects\VisCS\BaiThi\obj\Debug\BaiThi.csproj.AssemblyReference.cache
+C:\Users\LAPTOP-PC\projects\VisCS\BaiThi\obj\Debug\BaiThi.Forms.FormDangNhap.resources
+C:\Users\LAPTOP-PC\projects\VisCS\BaiThi\obj\Debug\BaiThi.Forms.FormMain.resources
+C:\Users\LAPTOP-PC\projects\VisCS\BaiThi\obj\Debug\BaiThi.Properties.Resources.resources
+C:\Users\LAPTOP-PC\projects\VisCS\BaiThi\obj\Debug\BaiThi.csproj.GenerateResource.cache
+C:\Users\LAPTOP-PC\projects\VisCS\BaiThi\obj\Debug\BaiThi.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP-PC\projects\VisCS\BaiThi\obj\Debug\BaiThi.exe
+C:\Users\LAPTOP-PC\projects\VisCS\BaiThi\obj\Debug\BaiThi.pdb

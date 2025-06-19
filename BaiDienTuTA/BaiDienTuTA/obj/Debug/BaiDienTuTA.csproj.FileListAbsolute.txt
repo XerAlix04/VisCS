@@ -1,0 +1,11 @@
+C:\Users\LAPTOP-PC\projects\VisCS\BaiDienTuTA\BaiDienTuTA\bin\Debug\BaiDienTuTA.exe.config
+C:\Users\LAPTOP-PC\projects\VisCS\BaiDienTuTA\BaiDienTuTA\bin\Debug\BaiDienTuTA.exe
+C:\Users\LAPTOP-PC\projects\VisCS\BaiDienTuTA\BaiDienTuTA\bin\Debug\BaiDienTuTA.pdb
+C:\Users\LAPTOP-PC\projects\VisCS\BaiDienTuTA\BaiDienTuTA\obj\Debug\BaiDienTuTA.csproj.AssemblyReference.cache
+C:\Users\LAPTOP-PC\projects\VisCS\BaiDienTuTA\BaiDienTuTA\obj\Debug\BaiDienTuTA.Form1.resources
+C:\Users\LAPTOP-PC\projects\VisCS\BaiDienTuTA\BaiDienTuTA\obj\Debug\BaiDienTuTA.Form2.resources
+C:\Users\LAPTOP-PC\projects\VisCS\BaiDienTuTA\BaiDienTuTA\obj\Debug\BaiDienTuTA.Properties.Resources.resources
+C:\Users\LAPTOP-PC\projects\VisCS\BaiDienTuTA\BaiDienTuTA\obj\Debug\BaiDienTuTA.csproj.GenerateResource.cache
+C:\Users\LAPTOP-PC\projects\VisCS\BaiDienTuTA\BaiDienTuTA\obj\Debug\BaiDienTuTA.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP-PC\projects\VisCS\BaiDienTuTA\BaiDienTuTA\obj\Debug\BaiDienTuTA.exe
+C:\Users\LAPTOP-PC\projects\VisCS\BaiDienTuTA\BaiDienTuTA\obj\Debug\BaiDienTuTA.pdb

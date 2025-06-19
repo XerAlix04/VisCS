@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\CTNgheNhac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16902DA0-D0B9-4B32-9CF7-2A7749296CF8}|CTNgheNhac\\CTNgheNhac.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\CTNgheNhac\\ctnghenhac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16902DA0-D0B9-4B32-9CF7-2A7749296CF8}|CTNgheNhac\\CTNgheNhac.csproj|solutionrelative:ctnghenhac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16902DA0-D0B9-4B32-9CF7-2A7749296CF8}|CTNgheNhac\\CTNgheNhac.csproj|c:\\users\\laptop-pc\\projects\\viscs\\ctnghenhac\\ctnghenhac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16902DA0-D0B9-4B32-9CF7-2A7749296CF8}|CTNgheNhac\\CTNgheNhac.csproj|solutionrelative:ctnghenhac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\CTNgheNhac\\CTNgheNhac\\Form1.cs",
+              "RelativeDocumentMoniker": "CTNgheNhac\\Form1.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\CTNgheNhac\\CTNgheNhac\\Form1.cs*",
+              "RelativeToolTip": "CTNgheNhac\\Form1.cs*",
+              "ViewState": "AgIAADYAAAAAAAAAAAAjwDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:45:55.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\CTNgheNhac\\CTNgheNhac\\Form1.cs",
+              "RelativeDocumentMoniker": "CTNgheNhac\\Form1.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\CTNgheNhac\\CTNgheNhac\\Form1.cs [Design]*",
+              "RelativeToolTip": "CTNgheNhac\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:37:45.762Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

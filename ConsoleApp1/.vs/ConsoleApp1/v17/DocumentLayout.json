@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53AE0558-D778-4C87-97B0-028913F8C0FE}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\laptop-pc\\projects\\viscs\\consoleapp1\\consoleapp1\\sachmoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AE0558-D778-4C87-97B0-028913F8C0FE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\sachmoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AE0558-D778-4C87-97B0-028913F8C0FE}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\ConsoleApp1\\consoleapp1\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AE0558-D778-4C87-97B0-028913F8C0FE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AE0558-D778-4C87-97B0-028913F8C0FE}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\ConsoleApp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AE0558-D778-4C87-97B0-028913F8C0FE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SachMoi.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\ConsoleApp1\\ConsoleApp1\\SachMoi.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\SachMoi.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\ConsoleApp1\\ConsoleApp1\\SachMoi.cs",
+              "RelativeToolTip": "ConsoleApp1\\SachMoi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:16:31.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\ConsoleApp1\\ConsoleApp1\\Sach.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Sach.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\ConsoleApp1\\ConsoleApp1\\Sach.cs",
+              "RelativeToolTip": "ConsoleApp1\\Sach.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:49:12.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:48:53.028Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

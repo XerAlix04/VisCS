@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|c:\\users\\laptop-pc\\projects\\viscs\\qlphongkham\\classes\\dataprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|solutionrelative:classes\\dataprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\forms\\formdanhmucthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|solutionrelative:forms\\formdanhmucthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\forms\\formdanhmucthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|solutionrelative:forms\\formdanhmucthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\forms\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|solutionrelative:forms\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\forms\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|solutionrelative:forms\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\classes\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|solutionrelative:classes\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\forms\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|solutionrelative:forms\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\forms\\formbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|solutionrelative:forms\\formbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\forms\\formbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|solutionrelative:forms\\formbenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\forms\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|solutionrelative:forms\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\forms\\formdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|solutionrelative:forms\\formdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|solutionrelative:forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806CD7FF-9F3F-45BB-8F2A-BACB6262B326}|QLPhongKham.csproj|solutionrelative:forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Classes\\Common.cs",
+              "RelativeDocumentMoniker": "Classes\\Common.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Classes\\Common.cs",
+              "RelativeToolTip": "Classes\\Common.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:42:42.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormBenhNhan.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Forms\\FormBenhNhan.cs",
+              "RelativeDocumentMoniker": "Forms\\FormBenhNhan.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Forms\\FormBenhNhan.cs",
+              "RelativeToolTip": "Forms\\FormBenhNhan.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:34:31.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormBenhNhan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Forms\\FormBenhNhan.cs",
+              "RelativeDocumentMoniker": "Forms\\FormBenhNhan.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Forms\\FormBenhNhan.cs [Design]",
+              "RelativeToolTip": "Forms\\FormBenhNhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:34:28.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormDanhMucThuoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Forms\\FormDanhMucThuoc.cs",
+              "RelativeDocumentMoniker": "Forms\\FormDanhMucThuoc.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Forms\\FormDanhMucThuoc.cs [Design]",
+              "RelativeToolTip": "Forms\\FormDanhMucThuoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:21:13.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Forms\\FormHoaDon.cs",
+              "RelativeDocumentMoniker": "Forms\\FormHoaDon.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Forms\\FormHoaDon.cs",
+              "RelativeToolTip": "Forms\\FormHoaDon.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwEYBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:39:10.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Forms\\FormHoaDon.cs",
+              "RelativeDocumentMoniker": "Forms\\FormHoaDon.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Forms\\FormHoaDon.cs [Design]",
+              "RelativeToolTip": "Forms\\FormHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:39:05.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormDichVu.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Forms\\FormDichVu.cs",
+              "RelativeDocumentMoniker": "Forms\\FormDichVu.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Forms\\FormDichVu.cs",
+              "RelativeToolTip": "Forms\\FormDichVu.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAUwMoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:29:14.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormDanhMucThuoc.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Forms\\FormDanhMucThuoc.cs",
+              "RelativeDocumentMoniker": "Forms\\FormDanhMucThuoc.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Forms\\FormDanhMucThuoc.cs",
+              "RelativeToolTip": "Forms\\FormDanhMucThuoc.cs",
+              "ViewState": "AgIAABgBAAAAAAAAAAAwwNwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:27:15.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Forms\\FormMain.cs",
+              "RelativeDocumentMoniker": "Forms\\FormMain.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Forms\\FormMain.cs",
+              "RelativeToolTip": "Forms\\FormMain.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAqwIAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:57:07.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Forms\\FormMain.cs",
+              "RelativeDocumentMoniker": "Forms\\FormMain.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Forms\\FormMain.cs [Design]",
+              "RelativeToolTip": "Forms\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:04:50.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Forms\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "Forms\\FormDangNhap.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Forms\\FormDangNhap.cs [Design]",
+              "RelativeToolTip": "Forms\\FormDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:50:35.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Forms\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "Forms\\FormDangNhap.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Forms\\FormDangNhap.cs",
+              "RelativeToolTip": "Forms\\FormDangNhap.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:11:23.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Classes\\DataProcessor.cs",
+              "RelativeDocumentMoniker": "Classes\\DataProcessor.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\QLPhongKham\\Classes\\DataProcessor.cs",
+              "RelativeToolTip": "Classes\\DataProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:11:23.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

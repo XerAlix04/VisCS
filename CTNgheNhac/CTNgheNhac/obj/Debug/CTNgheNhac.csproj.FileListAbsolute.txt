@@ -1,0 +1,15 @@
+C:\Users\LAPTOP-PC\projects\VisCS\CTNgheNhac\CTNgheNhac\bin\Debug\CTNgheNhac.exe.config
+C:\Users\LAPTOP-PC\projects\VisCS\CTNgheNhac\CTNgheNhac\bin\Debug\CTNgheNhac.exe
+C:\Users\LAPTOP-PC\projects\VisCS\CTNgheNhac\CTNgheNhac\bin\Debug\CTNgheNhac.pdb
+C:\Users\LAPTOP-PC\projects\VisCS\CTNgheNhac\CTNgheNhac\bin\Debug\Interop.WMPLib.dll
+C:\Users\LAPTOP-PC\projects\VisCS\CTNgheNhac\CTNgheNhac\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\LAPTOP-PC\projects\VisCS\CTNgheNhac\CTNgheNhac\obj\Debug\CTNgheNhac.csproj.AssemblyReference.cache
+C:\Users\LAPTOP-PC\projects\VisCS\CTNgheNhac\CTNgheNhac\obj\Debug\Interop.WMPLib.dll
+C:\Users\LAPTOP-PC\projects\VisCS\CTNgheNhac\CTNgheNhac\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\LAPTOP-PC\projects\VisCS\CTNgheNhac\CTNgheNhac\obj\Debug\CTNgheNhac.csproj.ResolveComReference.cache
+C:\Users\LAPTOP-PC\projects\VisCS\CTNgheNhac\CTNgheNhac\obj\Debug\CTNgheNhac.Form1.resources
+C:\Users\LAPTOP-PC\projects\VisCS\CTNgheNhac\CTNgheNhac\obj\Debug\CTNgheNhac.Properties.Resources.resources
+C:\Users\LAPTOP-PC\projects\VisCS\CTNgheNhac\CTNgheNhac\obj\Debug\CTNgheNhac.csproj.GenerateResource.cache
+C:\Users\LAPTOP-PC\projects\VisCS\CTNgheNhac\CTNgheNhac\obj\Debug\CTNgheNhac.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP-PC\projects\VisCS\CTNgheNhac\CTNgheNhac\obj\Debug\CTNgheNhac.exe
+C:\Users\LAPTOP-PC\projects\VisCS\CTNgheNhac\CTNgheNhac\obj\Debug\CTNgheNhac.pdb

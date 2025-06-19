@@ -1,0 +1,7 @@
+C:\Users\LAPTOP-PC\projects\VisCS\BTInterface\BTInterface\bin\Debug\BTInterface.exe.config
+C:\Users\LAPTOP-PC\projects\VisCS\BTInterface\BTInterface\bin\Debug\BTInterface.exe
+C:\Users\LAPTOP-PC\projects\VisCS\BTInterface\BTInterface\bin\Debug\BTInterface.pdb
+C:\Users\LAPTOP-PC\projects\VisCS\BTInterface\BTInterface\obj\Debug\BTInterface.csproj.AssemblyReference.cache
+C:\Users\LAPTOP-PC\projects\VisCS\BTInterface\BTInterface\obj\Debug\BTInterface.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP-PC\projects\VisCS\BTInterface\BTInterface\obj\Debug\BTInterface.exe
+C:\Users\LAPTOP-PC\projects\VisCS\BTInterface\BTInterface\obj\Debug\BTInterface.pdb

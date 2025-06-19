@@ -1,0 +1,17 @@
+C:\Users\LAPTOP-PC\projects\VisCS\QLPhongKham\bin\Debug\QLPhongKham.exe.config
+C:\Users\LAPTOP-PC\projects\VisCS\QLPhongKham\bin\Debug\QLPhongKham.exe
+C:\Users\LAPTOP-PC\projects\VisCS\QLPhongKham\bin\Debug\QLPhongKham.pdb
+C:\Users\LAPTOP-PC\projects\VisCS\QLPhongKham\obj\Debug\QLPhongKham.csproj.AssemblyReference.cache
+C:\Users\LAPTOP-PC\projects\VisCS\QLPhongKham\obj\Debug\QLPhongKham.Form1.resources
+C:\Users\LAPTOP-PC\projects\VisCS\QLPhongKham\obj\Debug\QLPhongKham.Forms.FormBenhNhan.resources
+C:\Users\LAPTOP-PC\projects\VisCS\QLPhongKham\obj\Debug\QLPhongKham.Forms.FormDangNhap.resources
+C:\Users\LAPTOP-PC\projects\VisCS\QLPhongKham\obj\Debug\QLPhongKham.Forms.FormDanhMucThuoc.resources
+C:\Users\LAPTOP-PC\projects\VisCS\QLPhongKham\obj\Debug\QLPhongKham.Forms.FormDichVu.resources
+C:\Users\LAPTOP-PC\projects\VisCS\QLPhongKham\obj\Debug\QLPhongKham.Forms.FormDonThuoc.resources
+C:\Users\LAPTOP-PC\projects\VisCS\QLPhongKham\obj\Debug\QLPhongKham.Forms.FormHoaDon.resources
+C:\Users\LAPTOP-PC\projects\VisCS\QLPhongKham\obj\Debug\QLPhongKham.Forms.FormMain.resources
+C:\Users\LAPTOP-PC\projects\VisCS\QLPhongKham\obj\Debug\QLPhongKham.Properties.Resources.resources
+C:\Users\LAPTOP-PC\projects\VisCS\QLPhongKham\obj\Debug\QLPhongKham.csproj.GenerateResource.cache
+C:\Users\LAPTOP-PC\projects\VisCS\QLPhongKham\obj\Debug\QLPhongKham.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP-PC\projects\VisCS\QLPhongKham\obj\Debug\QLPhongKham.exe
+C:\Users\LAPTOP-PC\projects\VisCS\QLPhongKham\obj\Debug\QLPhongKham.pdb

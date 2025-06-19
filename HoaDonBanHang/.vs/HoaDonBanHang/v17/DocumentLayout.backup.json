@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A986E68B-A7BC-4591-9C27-4307002ADCAB}|HoaDonBanHang.csproj|c:\\users\\laptop-pc\\projects\\viscs\\hoadonbanhang\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A986E68B-A7BC-4591-9C27-4307002ADCAB}|HoaDonBanHang.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A986E68B-A7BC-4591-9C27-4307002ADCAB}|HoaDonBanHang.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A986E68B-A7BC-4591-9C27-4307002ADCAB}|HoaDonBanHang.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A986E68B-A7BC-4591-9C27-4307002ADCAB}|HoaDonBanHang.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A986E68B-A7BC-4591-9C27-4307002ADCAB}|HoaDonBanHang.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A986E68B-A7BC-4591-9C27-4307002ADCAB}|HoaDonBanHang.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A986E68B-A7BC-4591-9C27-4307002ADCAB}|HoaDonBanHang.csproj|solutionrelative:common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A986E68B-A7BC-4591-9C27-4307002ADCAB}|HoaDonBanHang.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A986E68B-A7BC-4591-9C27-4307002ADCAB}|HoaDonBanHang.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A986E68B-A7BC-4591-9C27-4307002ADCAB}|HoaDonBanHang.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\dataprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A986E68B-A7BC-4591-9C27-4307002ADCAB}|HoaDonBanHang.csproj|solutionrelative:dataprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A986E68B-A7BC-4591-9C27-4307002ADCAB}|HoaDonBanHang.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A986E68B-A7BC-4591-9C27-4307002ADCAB}|HoaDonBanHang.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A986E68B-A7BC-4591-9C27-4307002ADCAB}|HoaDonBanHang.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A986E68B-A7BC-4591-9C27-4307002ADCAB}|HoaDonBanHang.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A986E68B-A7BC-4591-9C27-4307002ADCAB}|HoaDonBanHang.csproj|C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A986E68B-A7BC-4591-9C27-4307002ADCAB}|HoaDonBanHang.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\Common.cs",
+              "RelativeDocumentMoniker": "Common.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\Common.cs",
+              "RelativeToolTip": "Common.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:07:45.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\FormMain.cs",
+              "RelativeToolTip": "FormMain.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAawDAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:57:24.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\FormMain.cs [Design]",
+              "RelativeToolTip": "FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:43:16.256Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAABEBAAAAAAAAAAAAACIBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:00:23.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:50:37.751Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\DataProcessor.cs",
+              "RelativeDocumentMoniker": "DataProcessor.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\DataProcessor.cs",
+              "RelativeToolTip": "DataProcessor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:59:46.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:46:56.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:29:16.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\LAPTOP-PC\\projects\\VisCS\\HoaDonBanHang\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:24:44.785Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
